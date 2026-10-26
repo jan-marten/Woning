@@ -1,5 +1,5 @@
 Naam: Studeerkamer
-Afmeting: 4x3 meter
+Afmeting: 4,0 x 3,0 meter
 Radiator: ja
     - Type: 21
     - Afmeting (HxB in cm): 50 x 120

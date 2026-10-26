@@ -1,5 +1,5 @@
 Naam: Hal
-Afmeting: 2x4 meter
+Afmeting: 1,5 x 5,8 meter
 Radiator: ja
     - Type: vloerverwarming
     - Zones: 5

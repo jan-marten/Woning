@@ -1,5 +1,5 @@
 Naam: Keuken
-Afmeting: 4x5 meter
+Afmeting: 2,7 x 5,2 meter
 Radiator: ja
     - Type: vloerverwarming
     - Zones: 3 zones

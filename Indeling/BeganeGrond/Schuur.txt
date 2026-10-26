@@ -1,5 +1,5 @@
 Naam: Schuur
-Afmeting: 4x3 meter
+Afmeting: 4,0 x 3,0 meter
 Radiator: nee
 Inhoud:
     - Fietsen

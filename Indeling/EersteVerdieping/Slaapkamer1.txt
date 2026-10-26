@@ -1,5 +1,5 @@
 Naam: Slaapkamer voorzijde
-Afmeting: 4x3 meter
+Afmeting: 4,2 x 2,6 meter
 Radiator: ja
     - Type: 11
     - Afmeting (HxB in cm): 60 x 145

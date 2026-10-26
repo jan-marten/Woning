@@ -1,5 +1,5 @@
 Naam: Slaapkamer klein
-Afmeting: 2x3 meter
+Afmeting: 3,0 x 2,3 meter
 Radiator: ja
     - Type: 20
     - Afmeting (HxB in cm): 60 x 80

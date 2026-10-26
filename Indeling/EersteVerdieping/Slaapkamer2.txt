@@ -1,5 +1,5 @@
 Naam: Slaapkamer achterzijde
-Afmeting: 4x3 meter
+Afmeting: 2,7 x 2,6 meter
 Radiator: ja
     - Type: 11
     - Afmeting (HxB in cm): 90 x 80
