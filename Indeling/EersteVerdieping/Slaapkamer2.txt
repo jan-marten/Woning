@@ -4,6 +4,7 @@ Radiator: ja
     - Type: 11
     - Afmeting (HxB in cm): 90 x 80
     - Vermogen (bij 55C): 400W
+    - Thermostaatkraan: nee
 Inhoud:
     - Kledingkasten
     - Bed

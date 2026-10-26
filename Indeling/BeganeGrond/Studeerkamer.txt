@@ -4,6 +4,7 @@ Radiator: ja
     - Type: 21
     - Afmeting (HxB in cm): 50 x 120
     - Vermogen (bij 55C): 680W
+    - Thermostaatkraan: Ja    
 Inhoud:
     - Studeerplek
     - Computer

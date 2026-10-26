@@ -4,6 +4,7 @@ Radiator: ja
     - Type: 11
     - Afmeting (HxB in cm): 60 x 145
     - Vermogen (bij 55C): 500W
+    - Thermostaatkraan: nee
 Inhoud:
     - Bed
     - Kledingkasten
