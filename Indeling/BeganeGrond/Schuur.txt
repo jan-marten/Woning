@@ -1,0 +1,8 @@
+Naam: Schuur
+Afmeting: 4x3 meter
+Radiator: nee
+Inhoud:
+    - Fietsen
+    - Opslag buitenspul
+    - Klusmateriaal
+

@@ -1,0 +1,10 @@
+Naam: Slaapkamer ouders
+Afmeting: 4x3 meter
+Radiator: ja
+    - type: 21
+    - afmeting: 1m x 60cm
+Inhoud:
+    - Bed
+    - Kledingkasten
+    - Dakkappel
+

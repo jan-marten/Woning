@@ -1,0 +1,8 @@
+Naam: Slaapkamer achterzijde
+Afmeting: 4x3 meter
+Radiator: ja
+    Type: 22
+    Afmeting: onbekend
+Inhoud:
+    - Kledingkasten
+    - Bed

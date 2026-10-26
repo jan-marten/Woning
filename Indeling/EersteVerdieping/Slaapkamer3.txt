@@ -1,0 +1,8 @@
+Naam: Slaapkamer zijkant
+Afmeting: 2x3 meter
+Radiator: ja
+    Type: 22
+    Afmeting: onbekend
+Inhoud:
+    - Kledingkasten
+    - Bed

@@ -1,0 +1,9 @@
+Naam: Hal
+Afmeting: 2x4 meter
+Radiator: ja
+    - Type: vloerverwarming
+    - Zones: 5
+Inhoud:
+    - Eettafel
+    - Keuken
+    - Vloerverwarming verdeler

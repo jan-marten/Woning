@@ -1,0 +1,6 @@
+Naam: Voortuin
+Afmeting: 5x3 meter
+Radiator: nvt
+Inhoud:
+    - Siertuin
+    - 2 bomen

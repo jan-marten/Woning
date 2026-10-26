@@ -1,0 +1,8 @@
+Naam: Keuken
+Afmeting: 4x5 meter
+Radiator: ja
+    - Type: vloerverwarming
+    - Zones: 3 zones
+Inhoud:
+    - Eettafel
+    - Keuken

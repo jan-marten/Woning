@@ -1,0 +1,9 @@
+Naam: Badkamer
+Afmeting: 2,5 x 2,5 meter
+Radiator: ja
+    - Type: elektrische vloerverwarming
+Inhoud:
+    - Wastafel 2x
+    - Toilet
+    - Douche
+

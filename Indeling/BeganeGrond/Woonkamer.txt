@@ -1,0 +1,8 @@
+Naam: Woonkamer
+Afmeting: 4x4 meter
+Radiator: ja
+    - Type: vloerverwarming
+    - Afmeting: 2 zones
+Inhoud:
+    - Bankstel
+    - TV

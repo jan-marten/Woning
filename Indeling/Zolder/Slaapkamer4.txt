@@ -1,0 +1,6 @@
+Naam: Slaapkamer zolder
+Afmeting: 4x3 meter
+Radiator: nee
+Inhoud:
+    - Kledingkasten
+    - Bed

@@ -1,0 +1,6 @@
+Naam: Overloop zolder
+Afmeting: 4x3 meter
+Radiator: nee
+Inhoud:
+    - Berging
+    - CV ketel, Remeha Ace CW4

@@ -1,0 +1,12 @@
+Naam: Zijtuin
+Afmeting: 5x30 meter
+Radiator: nvt
+Inhoud:
+    - Siertuin
+    - Stoofperenboom
+    - Appelboom 3x
+    - Perenboom 1x
+    - Plataan 4x
+    - Heg
+    - Laurierheg
+

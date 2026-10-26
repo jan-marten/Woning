@@ -1,0 +1,13 @@
+Naam: Bijkeuken
+Afmeting: 2x2 meter
+Radiator: ja
+    Type: 11
+    Afmeting: 60x60cm
+Inhoud:
+    - Wasmachine
+    - Droger
+    - Cavia's
+    - Koelkast met vriezer
+    - Voorraadkast
+    - Buitenkleding (laarzen, handschoenen, sjaals)
+
