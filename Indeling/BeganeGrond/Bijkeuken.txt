@@ -1,8 +1,9 @@
 Naam: Bijkeuken
 Afmeting: 2x2 meter
 Radiator: ja
-    Type: 11
-    Afmeting: 60x60cm
+    - Type: 11
+    - Afmeting (HxB in cm): 90x80
+    - Vermogen (bij 55C): 400W
 Inhoud:
     - Wasmachine
     - Droger

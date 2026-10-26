@@ -1,8 +1,9 @@
-Naam: Slaapkamer ouders
+Naam: Slaapkamer voorzijde
 Afmeting: 4x3 meter
 Radiator: ja
-    - type: 21
-    - afmeting: 1m x 60cm
+    - Type: 11
+    - Afmeting (HxB in cm): 60 x 145
+    - Vermogen (bij 55C): 500W
 Inhoud:
     - Bed
     - Kledingkasten

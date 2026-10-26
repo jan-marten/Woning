@@ -1,8 +1,9 @@
-Naam: Slaapkamer zijkant
+Naam: Slaapkamer klein
 Afmeting: 2x3 meter
 Radiator: ja
-    Type: 22
-    Afmeting: onbekend
+    - Type: 20
+    - Afmeting (HxB in cm): 60 x 80
+    - Vermogen (bij 55C): 500W
 Inhoud:
     - Kledingkasten
     - Bed

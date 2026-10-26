@@ -1,9 +1,9 @@
 Naam: Studeerkamer
 Afmeting: 4x3 meter
 Radiator: ja
-    - Type: 44
-    - Afmeting: 2 meter x 40 cm
-    - Met ventilator systeem
+    - Type: 21
+    - Afmeting (HxB in cm): 50 x 120
+    - Vermogen (bij 55C): 680W
 Inhoud:
     - Studeerplek
     - Computer

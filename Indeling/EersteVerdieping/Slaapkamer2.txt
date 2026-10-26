@@ -1,8 +1,9 @@
 Naam: Slaapkamer achterzijde
 Afmeting: 4x3 meter
 Radiator: ja
-    Type: 22
-    Afmeting: onbekend
+    - Type: 11
+    - Afmeting (HxB in cm): 90 x 80
+    - Vermogen (bij 55C): 400W
 Inhoud:
     - Kledingkasten
     - Bed
